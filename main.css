@@ -280,3 +280,10 @@ font-size: 12px;
 }.
 
 
+.sun { display: none;}
+
+#sun {
+  content: '\2600';
+  display: inline;
+  text-decoration: none;
+}
